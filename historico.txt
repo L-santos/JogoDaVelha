@@ -1,0 +1,14 @@
+29/05/2016 19:42,Jogador X X Jogador Y Resultado: Jogador X Venceu!
+29/05/2016 19:59,Jogador X X Jogador Y Resultado: Jogador X Venceu!
+29/05/2016 19:59,Jogador X X Jogador Y Resultado: Jogador X Venceu!
+29/05/2016 20:05,Jogador X X Jogador Y Resultado: Jogador X Venceu!
+29/05/2016 20:05,Jogador X X Jogador Y Resultado: empate
+29/05/2016 20:05,Jogador X X Jogador Y Resultado: Jogador X Venceu!
+29/05/2016 20:05,Jogador X X Jogador Y Resultado: Jogador X Venceu!
+29/05/2016 20:05,Jogador X X Jogador Y Resultado: Jogador X Venceu!
+29/05/2016 20:06,Jogador X X Jogador Y Resultado: Jogador Y Venceu!
+29/05/2016 20:06,Jogador X X Jogador Y Resultado: Jogador X Venceu!
+29/05/2016 20:18,Jogador X X Jogador Y Resultado: Jogador X Venceu!
+29/05/2016 20:19,Jogador X X Jogador Y Resultado: Jogador Y Venceu!
+29/05/2016 20:19,Jogador X X Jogador Y Resultado: empate
+29/05/2016 20:19,Jogador X X Jogador Y Resultado: Jogador X Venceu!
